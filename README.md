@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Jared   
 
-<!--
-**Jaredbean42/Jaredbean42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Economics student graduating soon (GPA 3.6)  
+📊 Passionate about **data analysis, visualization, and automation**  
+🌐 Building projects with **Python, R, and web technologies**  
+🔍 Interested in analytics, policy research, and tech-driven solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, R, SQL, JavaScript  
+- **Data Tools:** Pandas, GeoPandas, Pygris, ggplot2, Excel/VBA  
+- **Web Tools:** HTML, CSS, Three.js, GitHub Pages  
+- **Other:** Git, Linux, Data Visualization, Automation Scripts  
+
+---
+
+## 📂 Featured Projects (will add more)
+  
+🌐 [**Personal Website**](https://jaredbean42.github.io)  
+Portfolio site built with HTML, CSS, and Three.js, hosted on GitHub Pages.  
+
+---
+
+## 📫 Connect
+- Portfolio: [jaredbean42.github.io](https://jaredbean42.github.io)  
+- LinkedIn: [linkedin.com/in/jared-e-bean](www.linkedin.com/in/jared-e-bean)  
+- Email: your.email@example.com  
