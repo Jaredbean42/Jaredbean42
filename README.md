@@ -3,35 +3,35 @@
 Economics student (graduated, GPA 3.6)  
 Passionate about **data analysis, visualization, and automation**  
 Building projects with **Python, R, and web technologies**  
-Interested in analytics, policy research, and tech-driven solutions  
+Interested in data analytics, machine learning and automating supply chains 
 
 ---
 
 ## Skills
-- **Languages:** Python, R, SQL, VBA  
+- **Languages:** Python, R, SQL, VBA, Power BI  
 - **Data Tools:** Pandas, Tidyverse, ggplot2, Excel  
-- **Other:** Git, Data Visualization, Automation Scripts  
+- **Other:** Data Visualization, Econometrics
 
 ---
 
 ## Skills I'm Learning
-- Git & Linux (advanced workflows)  
+- Machine learning and renforcment learning
 - Brazilian Jiu-Jitsu & Judo  
 - Basic Web Development (HTML, CSS, JS, Three.js)  
 - Cello 
 
 ---
 
-## Featured Projects *(more coming soon)*
+## Featured Projects
 [**Personal Website**](https://jaredbean42.github.io)  
 Portfolio site built with HTML, CSS, and Three.js, hosted on GitHub Pages.  
 
 ---
 
 ## Education
-- **B.A. Economics** (expected graduation: next semester! :)  
+- **B.A. Economics** 
 - **Minors:** Statistics & Data Analytics  
-- **Relevant Coursework:** Linear Regression, Machine Learning, Intermediate Macro & Microeconomics  
+- **Relevant Coursework:** Intermediate Macro & Microeconomics  
 
 ---
 
