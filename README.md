@@ -23,8 +23,8 @@ Interested in data analytics, machine learning and automating supply chains
 ---
 
 ## Featured Projects
-[**Personal Website**](https://jaredbean42.github.io)  
-Portfolio site built with HTML, CSS, and Three.js, hosted on GitHub Pages.  
+[**Personal Website**](https://jaredbean42.github.io/portfolio_tab/portfolio.html)  
+Portfolio site built with HTML, CSS, and Three.js, hosted on GitHub Pages with other projects on it.  
 
 ---
 
