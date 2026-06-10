@@ -16,7 +16,7 @@ Interested in analytics, policy research, and tech-driven solutions
 
 ## Skills I'm Learning
 - Git & Linux (advanced workflows)  
-- Brazilian Jiu-Jitsu & Judo 🥋  
+- Brazilian Jiu-Jitsu & Judo  
 - Basic Web Development (HTML, CSS, JS, Three.js)  
 - Cello 
 
